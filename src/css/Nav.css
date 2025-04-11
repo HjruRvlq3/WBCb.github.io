@@ -1,0 +1,25 @@
+nav {
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+
+    padding: 20px 0 20px 0;
+    width: 100%;
+
+    background-color: #FFFFFF;
+}
+
+nav button {
+    background-color: #FFFFFF;
+}
+
+nav img {
+    height: 32px;
+    width: 32px;
+}
+
+

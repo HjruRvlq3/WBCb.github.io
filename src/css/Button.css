@@ -1,0 +1,10 @@
+.filter {
+    background-color: #FFFFFF;
+    padding: 12px 12px 10px 12px;
+    border-radius: 100%;
+}
+
+
+.filter img {
+    width: 20px !important;
+}

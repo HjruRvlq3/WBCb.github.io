@@ -1,0 +1,28 @@
+.input-group {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.input-group__input {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 0 20px 0 20px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.input-group__input img {
+    height: 18px;
+    width: 18px;
+}
+
+.input-group__input input {
+    font-size: 16px;
+}
+
+.input-group__input input::placeholder {
+    color: #9597A6;
+}
